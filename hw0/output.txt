@@ -1,6 +1,6 @@
 ---
 name:
-   first: Slav
-   last: Petrov
-email: slav@petrovi.de
-leaderboard: SlavPetrov
+   first: Qiyu
+   last: Xiao
+email: qx344@nyu.edu
+leaderboard: QiyuX
