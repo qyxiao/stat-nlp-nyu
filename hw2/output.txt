@@ -1,25 +1,4 @@
-﻿
-[LBFGSMinimizer.minimize] Iteration 0 ended with value 36923.556292
-[LBFGSMinimizer.minimize] Iteration 1 ended with value 34031.516129
-[LBFGSMinimizer.minimize] Iteration 2 ended with value 32339.481200
-[LBFGSMinimizer.minimize] Iteration 3 ended with value 28308.605061
-[LBFGSMinimizer.minimize] Iteration 4 ended with value 23625.182949
-[LBFGSMinimizer.minimize] Iteration 5 ended with value 23044.087688
-[LBFGSMinimizer.minimize] Iteration 6 ended with value 22113.350867
-[LBFGSMinimizer.minimize] Iteration 7 ended with value 21343.182179
-[LBFGSMinimizer.minimize] Iteration 8 ended with value 19103.743942
-[LBFGSMinimizer.minimize] Iteration 9 ended with value 18586.199195
-[LBFGSMinimizer.minimize] Iteration 10 ended with value 17820.771539
-[LBFGSMinimizer.minimize] Iteration 11 ended with value 17343.459963
-[LBFGSMinimizer.minimize] Iteration 12 ended with value 16903.304998
-[LBFGSMinimizer.minimize] Iteration 13 ended with value 16315.283425
-[LBFGSMinimizer.minimize] Iteration 14 ended with value 16041.828293
-[LBFGSMinimizer.minimize] Iteration 15 ended with value 15838.710908
-[LBFGSMinimizer.minimize] Iteration 16 ended with value 15521.531934
-[LBFGSMinimizer.minimize] Iteration 17 ended with value 15100.646772
-[LBFGSMinimizer.minimize] Iteration 18 ended with value 14716.773161
-[LBFGSMinimizer.minimize] Iteration 19 ended with value 14585.285772
-Example: A-200 Shampoo Concentrate guess=drug gold= confidence=0.8935739606532594
+﻿Example: A-200 Shampoo Concentrate guess=drug gold= confidence=0.8935739606532594
 Example: Acet-2 guess=drug gold= confidence=0.983006628743182
 Example: Actifed Cold & Sinus Caplets 26 guess=drug gold= confidence=0.7651341502262303
 Example: Actigall guess=drug gold= confidence=0.7428874402479687
