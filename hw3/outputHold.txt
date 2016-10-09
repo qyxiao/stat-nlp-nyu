@@ -1632,7 +1632,7 @@ his	PRP$
 name	NN
 will	MD
 remain	VB
-unspoken	JJ
+unspoken	NN
 .	.
 
 Another	DT
@@ -5030,7 +5030,7 @@ to	IN
 Jordan	NNP
 and	CC
 then	RB
-smuggled	VBN
+smuggled	JJ
 to	IN
 various	JJ
 countries	NNS
@@ -5058,7 +5058,7 @@ guardians	NNS
 who	WP
 were	VBD
 usually	RB
-Mujahedeen	VBN
+Mujahedeen	JJ
 supporters	NNS
 .	.
 
@@ -5669,7 +5669,7 @@ morality	NN
 "	,
 when	WRB
 they	PRP
-indescriminately	RB
+indescriminately	VBZ
 murdered	VBN
 their	PRP$
 classmates	NNS
@@ -5749,8 +5749,8 @@ inversion	NN
 of	IN
 truth	NN
 ,	,
-ala	NNP
-satanism	NNP
+ala	NN
+satanism	NN
 .	.
 
 I	PRP
@@ -6979,7 +6979,7 @@ energy	NN
 
 Does	VBZ
 this	DT
-reappropriation	NN
+reappropriation	JJ
 lead	NN
 to	IN
 or	CC
@@ -7855,7 +7855,7 @@ systems	NNS
 The	NNP
 '	POS
 high	JJ
-weirdness	NN
+weirdness	NNS
 '	:
 and	CC
 more	JJR
@@ -10033,7 +10033,7 @@ al	NNP
 Qaeda	NNP
 can	MD
 kill	VB
-Musharraf	NNP
+Musharraf	NN
 or	CC
 instigate	VB
 a	DT
@@ -10587,10 +10587,10 @@ solved	VBN
 to	TO
 avoid	VB
 giving	VBG
-al	JJ
+al	RB
 -	HYPH
-Qaeda	NN
-an	,
+Qaeda	VBD
+an	DT
 entree	FW
 .	.
 
@@ -11288,7 +11288,7 @@ a	DT
 proof	NN
 of	IN
 the	DT
-emptiness	NN
+emptiness	NNS
 of	IN
 the	DT
 Israeli	JJ
@@ -12480,7 +12480,7 @@ Syrian	JJ
 territory	NN
 that	IN
 Israel	NNP
-annexed	NNP
+annexed	VBD
 after	IN
 the	DT
 1967	CD
@@ -14927,7 +14927,7 @@ Pakistan	NNP
 .	.
 
 I	PRP
-presume	VBP
+presume	VBZ
 you	PRP
 need	VBP
 the	DT
@@ -15090,7 +15090,7 @@ It	PRP
 should	MD
 be	VB
 easily	RB
-googled	VBN
+googled	JJ
 .	.
 
 Clinton	NNP
@@ -15119,7 +15119,7 @@ a	DT
 handful	NN
 of	IN
 Texas	NNP
-multi-millionnaires	NNP
+multi-millionnaires	JJ
 close	NN
 to	IN
 the	DT
@@ -17300,12 +17300,12 @@ are	VBP
 being	VBG
 "	NNS
 picked	VBD
-up	RB
-"	VBN
+up	RP
+"	NNS
 by	IN
-al	NNP
+al	JJ
 -	HYPH
-Qaeda	NNP
+Qaeda	NN
 .	.
 
 This	DT
@@ -18131,7 +18131,7 @@ more	RBR
 militant	JJ
 Sunni	NNP
 Muslim	NNP
-clerics	NNP
+clerics	NNS
 of	IN
 AMS	NNP
 and	CC
@@ -20421,7 +20421,7 @@ on	IN
 my	PRP$
 neck	NN
 started	VBD
-enlarging	JJ
+enlarging	VBG
 --	:
 they	PRP
 said	VBD
@@ -20519,7 +20519,7 @@ and	CC
 Recuperation	VB
 Program	NN
 ,	,
-wherein	VBD
+wherein	VBG
 a	DT
 child	NN
 can	MD
@@ -21046,8 +21046,8 @@ leads	VBZ
 me	PRP
 to	TO
 think	VB
-that	IN
-Google	NNP
+that	DT
+Google	NN
 will	MD
 be	VB
 making	VBG
@@ -21237,7 +21237,7 @@ the	DT
 leading	JJ
 lights	NNS
 in	IN
-Firefox	NNP
+Firefox	JJ
 development	NN
 ,	,
 they	PRP
