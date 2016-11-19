@@ -21368,5 +21368,3 @@ and	CC
 process	VB	
 _UNK	RB	
 .	.	
-
-correct 0.0 total: 20356.0 accuracy: 0.0
